@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Executive task management, sprint execution, and engineering workload workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
